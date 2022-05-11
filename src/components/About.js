@@ -12,51 +12,51 @@ export default function About() {
                     <div className="mr-auto mb-7">
                         <span className="text-3xl md:text-5xl xl:text-6xl lg:text-5xl font-bold text-[#ccd6f6] ml-2 border-b-[3px] md:border-b-[5px] border-pink-500">About</span>
                         <p className='text-[#8892b0] py-4 max-w-[700px] ml-2 mt-2 p-4'>
-                            I’m a full-stack developer specializing in building (and occasionally
-                            designing) exceptional digital experiences. Currently, I’m focused on
-                            building responsive full-stack web applications.
-                            I’m a full-stack developer specializing in building (and occasionally
-                            designing) exceptional digital experiences. Currently, I’m focused on
-                            building responsive full-stack web applications.
-                            I’m a full-stack developer specializing in building (and occasionally
-                            designing) exceptional digital experiences. Currently, I’m focused on
-                            building responsive full-stack web applications.
+                            Freshly graduated with B.Tech, and currently working on creating smart contracts (and dapps) for multiple applications including DeFi and NFT.<br></br>
+                            Maintaining my streak to be better than yesterday (I spend no day not learning) <br></br>
+                            Currently learning gas-optimization and security vulnerabilities of smart contracts (<a href="https://dev.to/rushanksavant"><u className="text-pink-500 hover:text-pink-300">dev</u></a>). And, solidity assembly.
+                            Getting better at building responsive and user-friendly frontend applications using ReactJS and TailwindCSS.
                         </p>
                     </div>
                 </div>
 
                 <div className="grid lg:grid-cols-3 w-full gap-[55px] md:flex-col lg:px-[100px]">
                     <div className="lg:mx-auto mr-auto ml-2 flex-col">
-                        <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">what i do?</span>
+                        <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">Previous Work</span>
                         <p className='text-[#8892b0] py-4 max-w-[700px] ml-2 p-2'>
-                            I’m a full-stack developer specializing in building (and occasionally
-                            designing) exceptional digital experiences. Currently, I’m focused on
-                            building responsive full-stack web applications.
-                            I’m a full-stack developer specializing in building (and occasionally
-                            designing) exceptional digital experiences. Currently, I’m focused on
-                            building responsive full-stack web applications.
+                            <ul style={{ listStyleType: "circle" }}>
+                                <li>
+                                    Blockchain Developer - Nu10 <br></br>
+                                    Developed a smart contract for NFT Marketplace and integrated it with a simple frontend.
+                                    And worked along with the team on payouts using Tatum for a Casino project.
+                                </li>
+                                <li>
+                                    Have past experience working as Data Scientist at a unicorn edutech start-up. And as a Python developer in animation industry (the Lego animations you might have seen)
+
+                                </li>
+                            </ul>
                         </p>
                     </div>
                     <div className="lg:mx-auto mr-auto ml-2 flex-col">
-                        <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">weaknesses</span>
+                        <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">What I can deliver (now)?</span>
                         <p className='text-[#8892b0] py-4 max-w-[700px] ml-2 p-2'>
-                            I’m a full-stack developer specializing in building (and occasionally
-                            designing) exceptional digital experiences. Currently, I’m focused on
-                            building responsive full-stack web applications.
-                            I’m a full-stack developer specializing in building (and occasionally
-                            designing) exceptional digital experiences. Currently, I’m focused on
-                            building responsive full-stack web applications.
+                            <ul style={{ listStyleType: "circle" }}>
+                                <li>Smart Contract development</li>
+                                <li>Testing smart contracts</li>
+                                <li>Frontend application with Smart contract(s) integration</li>
+                                <li>Interacting with defi protocols like Compound, Uniswap, etc.</li>
+                            </ul>
                         </p>
                     </div>
                     <div className="lg:mx-auto mr-auto ml-2 flex-col">
-                        <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">my say on web3?</span>
+                        <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">My plans for next 30 days</span>
                         <p className='text-[#8892b0] py-4 max-w-[700px] ml-2 p-2'>
-                            I’m a full-stack developer specializing in building (and occasionally
-                            designing) exceptional digital experiences. Currently, I’m focused on
-                            building responsive full-stack web applications.
-                            I’m a full-stack developer specializing in building (and occasionally
-                            designing) exceptional digital experiences. Currently, I’m focused on
-                            building responsive full-stack web applications.
+                            <ul style={{ listStyleType: "circle" }}>
+                                <li>Get better at gas-optimization</li>
+                                <li>Detect and prevent security vulnerabilities</li>
+                                <li>Explore and work with Defi and NFT protocols</li>
+                                <li>Start my next project, "Tathastu" </li>
+                            </ul>
                         </p>
                     </div>
                 </div>
