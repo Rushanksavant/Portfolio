@@ -6,7 +6,8 @@ import {
     FaTimes,
     FaGithub,
     FaLinkedin,
-    FaTwitter
+    FaTwitter,
+    FaDev
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
@@ -20,7 +21,7 @@ export default function Navbar() {
     }
 
     return (
-        <div className="fixed w-full bg-black h-20 justify-between flex p-4 border-b-[1px] border-neutral-600">
+        <div className="fixed  w-full bg-black h-20 justify-between flex p-4 border-b-[1px] border-neutral-600">
             <div className="text-white text-4xl">
                 <img src={Logo} className="lg:h-[75px] pb-3 lg:w-[110px] h-[60px] w-[90px]" />
             </div>
@@ -145,10 +146,20 @@ export default function Navbar() {
                     <li className='w-[145px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-blue-400'>
                         <a
                             className='flex justify-between items-center w-full text-gray-300 p-2 font-bold'
-                            href='/'
+                            href='https://twitter.com/irss350'
                             target="_blank"
                         >
                             Twitter <FaTwitter size={30} />
+                        </a>
+                    </li>
+
+                    <li className='w-[145px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-black'>
+                        <a
+                            className='flex justify-between items-center w-full text-gray-300 p-2 font-bold'
+                            href='https://dev.to/rushanksavant'
+                            target="_blank"
+                        >
+                            Dev <FaDev size={30} />
                         </a>
                     </li>
 
