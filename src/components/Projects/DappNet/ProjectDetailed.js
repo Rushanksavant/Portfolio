@@ -32,9 +32,9 @@ export default function PostDetailed(props) {
                         </div>
                     </div>
 
-                    {/* <div className="text-pink-300 xl:text-lg lg:text-md md:text-[12px] text-[10px]">
-                        (Kindly connect your wallet to ropsten network and wait for a few seconds, it might show "No NFTs listed yet" before NFTs load)
-                    </div> */}
+                    <div className="text-pink-300 xl:text-lg lg:text-md md:text-[12px] text-[10px]">
+                        (Kindly wait a few seconds after connecting your wallet to ropsten net, it will display posts created by users on the main page)
+                    </div>
 
                     <div className="text-[#ccd6f6] xl:text-xl lg:text-lg md:text-[15px] text-[13px] mt-3">
                         Deployed on Ropsten testnet:
