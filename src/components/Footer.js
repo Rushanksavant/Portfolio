@@ -36,7 +36,7 @@ export default function Footer() {
                             <FaTwitter size={20} />
                         </button>
                     </a>
-                    <a href="https://docs.google.com/document/d/1KIe0PjwFNhEx27eI_nd97-UeGK4qn4NXRAeiTwyx42I/edit?usp=sharing"
+                    <a href="https://drive.google.com/file/d/1rOidHaSG51uxlBejILbda_GuMqQ74qBf/view?usp=sharing"
                         target="_blank" rel="noreferrer">
                         <button className='hover:text-pink-500'>
                             <BsFillPersonLinesFill size={20} />
