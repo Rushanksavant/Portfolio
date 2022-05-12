@@ -38,7 +38,7 @@ export default function About() {
                         </p>
                     </div>
                     <div className="lg:mx-auto mr-auto ml-2 flex-col">
-                        <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">What I can deliver (now)?</span>
+                        <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">What I can deliver?</span>
                         <p className='text-[#8892b0] py-4 max-w-[700px] ml-2 p-2'>
                             <ul style={{ listStyleType: "circle" }}>
                                 <li>Smart Contract development</li>
@@ -49,7 +49,7 @@ export default function About() {
                         </p>
                     </div>
                     <div className="lg:mx-auto mr-auto ml-2 flex-col">
-                        <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">My plans for next 30 days</span>
+                        <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">Plans for next 30 days</span>
                         <p className='text-[#8892b0] py-4 max-w-[700px] ml-2 p-2'>
                             <ul style={{ listStyleType: "circle" }}>
                                 <li>Get better at gas-optimization</li>
