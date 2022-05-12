@@ -27,7 +27,7 @@ export default function About() {
                             <ul style={{ listStyleType: "circle" }}>
                                 <li>
                                     Blockchain Developer - Nu10 <br></br>
-                                    Developed a smart contract for NFT Marketplace and integrated it with a simple frontend.
+                                    Developed a smart contract for NFT Marketplace and integrated it with a simple front end.
                                     And worked along with the team on payouts using Tatum for a Casino project.
                                 </li>
                                 <li>
