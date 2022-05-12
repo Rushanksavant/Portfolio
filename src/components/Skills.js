@@ -21,47 +21,47 @@ export default function Skills() {
                     Ask me about</span>
                 <div className="grid lg:grid-cols-6 md:grid-cols-5 grid-cols-3 mb-[50px] sm:mb-[50px] px-[10px] gap-4">
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={JS} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={JS} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="JavaScript" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">JavaScript</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={Sol} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={Sol} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="Solidity" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">Solidity</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={py} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={py} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="Python" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">Python</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={ethersLogo} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={ethersLogo} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="EthersJS" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">EthersJS</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={hardhat} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={hardhat} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="Hardhat" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">Hardhat</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={chai} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={chai} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="Chai" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">Chai</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={mocha} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={mocha} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="Mocha" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">Mocha</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={reactLogo} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={reactLogo} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="ReactJS" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">ReactJS</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={tailwind} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={tailwind} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="Tailwind" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">Tailwind</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={bootstrap} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={bootstrap} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="Bootstrap" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">Bootstrap</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={ipfs} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={ipfs} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="IPFS" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">IPFS</span>
                     </div>
                 </div>
@@ -71,15 +71,15 @@ export default function Skills() {
                     Exploring {/*<span className="text-sm sm:text-xl">(before June 2022)</span>*/}</span>
                 <div className="grid lg:grid-cols-6 md:grid-cols-5 grid-cols-3 pb-[15px] px-[10px] gap-4">
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={rust} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={rust} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="Rust" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">Rust</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={graph} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={graph} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="The Graph" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">The Graph</span>
                     </div>
                     <div className="text-[#ccd6f6] font-semibold mx-auto bg-neutral-800 hover:scale-110 hover:bg-neutral-700 duration-300 p-3 w-[100px] md:w-[130px] xl:w-[180px] flex flex-col shadow-lg shadow-neutral-600">
-                        <img src={mytril} className='h-[50px] lg:h-[75px] mx-auto mb-2' />
+                        <img src={mytril} className='h-[50px] lg:h-[75px] mx-auto mb-2' alt="Mythril" />
                         <span className="md:text-md lg:text-lg text-sm mx-auto">Mythril</span>
                     </div>
                 </div>

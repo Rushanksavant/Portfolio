@@ -9,7 +9,6 @@ import {
     FaTwitter,
     FaDev
 } from 'react-icons/fa';
-import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 
 export default function Navbar() {
@@ -23,7 +22,7 @@ export default function Navbar() {
     return (
         <div className="fixed  w-full bg-black h-20 justify-between flex p-4 border-b-[1px] border-neutral-600">
             <div className="text-white text-4xl">
-                <img src={Logo} className="lg:h-[75px] pb-3 lg:w-[110px] h-[60px] w-[90px]" />
+                <img src={Logo} className="lg:h-[75px] pb-3 lg:w-[110px] h-[60px] w-[90px]" alt='Logo' />
             </div>
 
 
@@ -127,7 +126,7 @@ export default function Navbar() {
                         <a
                             className='flex justify-between items-center w-full text-gray-300 p-2 font-bold'
                             href='https://www.linkedin.com/in/rushank-savant/'
-                            target="_blank"
+                            target="_blank" rel="noreferrer"
                         >
                             Linkedin <FaLinkedin size={30} />
                         </a>
@@ -137,7 +136,7 @@ export default function Navbar() {
                         <a
                             className='flex justify-between items-center w-full text-gray-300 p-2 font-bold'
                             href='https://github.com/Rushanksavant'
-                            target="_blank"
+                            target="_blank" rel="noreferrer"
                         >
                             Github <FaGithub size={30} />
                         </a>
@@ -147,7 +146,7 @@ export default function Navbar() {
                         <a
                             className='flex justify-between items-center w-full text-gray-300 p-2 font-bold'
                             href='https://twitter.com/irss350'
-                            target="_blank"
+                            target="_blank" rel="noreferrer"
                         >
                             Twitter <FaTwitter size={30} />
                         </a>
@@ -157,7 +156,7 @@ export default function Navbar() {
                         <a
                             className='flex justify-between items-center w-full text-gray-300 p-2 font-bold'
                             href='https://dev.to/rushanksavant'
-                            target="_blank"
+                            target="_blank" rel="noreferrer"
                         >
                             Dev <FaDev size={30} />
                         </a>
@@ -167,7 +166,7 @@ export default function Navbar() {
                         <a
                             className='flex justify-between items-center w-full text-gray-300 p-2 font-bold'
                             href='/'
-                            target="_blank"
+                            target="_blank" rel="noreferrer"
                         >
                             Resume <BsFillPersonLinesFill size={30} />
                         </a>

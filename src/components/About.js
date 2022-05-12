@@ -1,4 +1,3 @@
-import pic from "../imgs/Capture.PNG"
 import myPic from "../imgs/myPicColored.jpg"
 export default function About() {
     return (
@@ -6,7 +5,7 @@ export default function About() {
             <div className='flex flex-col bg-black text-white pt-[90px]'>
                 <div className="grid lg:grid-cols-2 gap-8 lg:mx-auto mb-3">
                     <div className="text-white mx-auto pl-[150px] xl:h-[350px] xl:w-[650px] lg:h-[290px] lg:w-[530px] md:h-[240px] md:w-[480px] h-[170px] w-[360px] md:ml-auto">
-                        <img src={myPic} className="lg:flex" />
+                        <img src={myPic} className="lg:flex" alt="Profile" />
 
                     </div>
                     <div className="mr-auto mb-7">
@@ -64,9 +63,3 @@ export default function About() {
         </div>
     )
 }
-
-// pic
-// background
-// what i do
-// weakness
-// my say on web 3
