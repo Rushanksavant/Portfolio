@@ -67,7 +67,7 @@ export default function PostDetailed(props) {
                                 Owner of DappNet (me) can delete posts and comments on anyone's post if inappropriate content is posted.
                             </li>
                             <li>
-                                View your activity, Posts created/deleted, Posts liked/cancle liked, Comment you posted/deleted on any post in "Your Activity".
+                                View your activity, Posts created/deleted, Posts liked/cancel liked, Comment you posted/deleted on any post in "Your Activity".
                             </li>
                         </ul>
 

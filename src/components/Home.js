@@ -18,7 +18,7 @@ export default function Home() {
                         using Chai, Mocha, and integrating them to a frontend using EthersJS.
                         {/* Currently, I’m focused on gas-optimization and security vulnerabilities of smart contract, and building responsive web applications. */}
                     </p>
-                    <a href="https://drive.google.com/file/d/1rOidHaSG51uxlBejILbda_GuMqQ74qBf/view?usp=sharing"
+                    <a href="https://drive.google.com/file/d/1Qdu67VoFwWXXrFLPaZ25jNQWymniS63s/view?usp=sharing"
                         target="_blank" rel="noreferrer">
                         <button className='text-white border-4 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-900'>
                             Resume
