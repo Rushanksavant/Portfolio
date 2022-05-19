@@ -32,9 +32,9 @@ export default function PostDetailed(props) {
                         running project on localhost mainnet-fork, blocknumber-12964900 (before london)
                     </div>
 
-                    <div className="text-[#ccd6f6] xl:text-xl lg:text-lg md:text-[15px] text-[13px] mt-3">
-                        Deployed on Ropsten testnet: 0xA3b10D635C92a5A1ae051293C26a107c272cc34B
-                    </div>
+                    {/* <div className="text-[#ccd6f6] xl:text-xl lg:text-lg md:text-[15px] text-[13px] mt-3">
+                        
+                    </div> */}
 
                     <div className="text-[#ccd6f6] xl:text-xl lg:text-lg md:text-[15px] text-[13px] mt-[50px]">
                         <span className="text-[#ccd6f6] font-bold xl:text-3xl lg:text-2xl md:text-[19px] text-[17px] border-b-2 border-pink-500">
