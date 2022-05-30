@@ -165,7 +165,7 @@ export default function Navbar() {
                     <li className='w-[145px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-[#565f69]'>
                         <a
                             className='flex justify-between items-center w-full text-gray-300 p-2 font-bold'
-                            href='https://drive.google.com/file/d/1Qdu67VoFwWXXrFLPaZ25jNQWymniS63s/view?usp=sharing'
+                            href='https://drive.google.com/file/d/1_d0SbrPWcwUMzT1gXB41eWxs1gS0IPHA/view?usp=sharing'
                             target="_blank" rel="noreferrer"
                         >
                             Resume <BsFillPersonLinesFill size={30} />
