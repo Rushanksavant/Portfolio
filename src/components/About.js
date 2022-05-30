@@ -51,6 +51,8 @@ export default function About() {
                         <span className="text-2xl sm:text-4xl font-bold text-[#ccd6f6] border-b-[3px] border-pink-500">Plans for next 30 days</span>
                         <p className='text-[#8892b0] py-4 max-w-[700px] ml-2 p-2'>
                             <ul style={{ listStyleType: "circle" }}>
+                                <li>Research and implement Zero Knowledge Proof</li>
+                                <li>Implement Governance</li>
                                 <li>Get better at gas-optimization</li>
                                 <li>Detect and prevent security vulnerabilities</li>
                                 <li>Explore and work with Defi and NFT protocols</li>
