@@ -61,19 +61,15 @@ export default function About() {
               About
             </span>
             <p className='text-[#8892b0] py-4 max-w-[700px] ml-2 mt-2 p-4'>
-              Freshly graduated with B.Tech, and currently working on creating
-              smart contracts (and dapps) for multiple applications including
-              DeFi and NFT.<br></br>
-              Maintaining my streak to be better than yesterday (I spend no day
-              not learning) <br></br>
-              Currently learning gas-optimization and security vulnerabilities
+              I’m a self-taught developer and I love to create smart contracts
+              (and dapps) for multiple applications including DeFi and NFT. I
+              also write blogs on gas-optimization and security vulnerabilities
               of smart contracts (
               <a href='https://dev.to/rushanksavant'>
                 <u className='text-pink-500 hover:text-pink-300'>dev</u>
               </a>
-              ). And, solidity assembly. Getting better at building responsive
-              and user-friendly frontend applications using ReactJS and
-              TailwindCSS.
+              ). Enjoy working with team and open to feedbacks. My daily goal is
+              to be better than yesterday.
             </p>
           </div>
           <div className='lg:mx-auto mr-auto ml-2 flex-col'>
