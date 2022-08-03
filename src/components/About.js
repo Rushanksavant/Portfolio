@@ -18,7 +18,11 @@ export default function About() {
                     Web3.0 Developer
                   </span>{' '}
                   -{' '}
-                  <a href='https://instadapp.io/'>
+                  <a
+                    href='https://instadapp.io/'
+                    target='_blank'
+                    rel='noreferrer'
+                  >
                     <u className='text-pink-500 hover:text-pink-300 my-auto font-semibold'>
                       InstaDapp
                     </u>
@@ -27,7 +31,11 @@ export default function About() {
                   Worked on projects like Asset Bridging Bots, Formal
                   Verification of smart contracts, 3x leveraged positions and
                   more. You can learn more about it{' '}
-                  <a href='https://github.com/Rushanksavant/InstaDapp-Tasks'>
+                  <a
+                    href='https://github.com/Rushanksavant/InstaDapp-Tasks'
+                    target='_blank'
+                    rel='noreferrer'
+                  >
                     <u className='text-pink-500 hover:text-pink-300'>here</u>
                   </a>
                 </li>
@@ -36,7 +44,7 @@ export default function About() {
                     Blockchain Developer
                   </span>{' '}
                   -{' '}
-                  <a href='https://nu10.co/'>
+                  <a href='https://nu10.co/' target='_blank' rel='noreferrer'>
                     <u className='text-pink-500 hover:text-pink-300 font-semibold'>
                       Nu10
                     </u>
@@ -65,7 +73,11 @@ export default function About() {
               (and dapps) for multiple applications including DeFi and NFT. I
               also write blogs on gas-optimization and security vulnerabilities
               of smart contracts (
-              <a href='https://dev.to/rushanksavant'>
+              <a
+                href='https://dev.to/rushanksavant'
+                target='_blank'
+                rel='noreferrer'
+              >
                 <u className='text-pink-500 hover:text-pink-300'>dev</u>
               </a>
               ). Enjoy working with team and open to feedbacks. My daily goal is
