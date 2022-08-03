@@ -24,7 +24,7 @@ export default function About() {
                     </u>
                   </a>{' '}
                   <br></br>
-                  Worked on various tasks like Asset Bridging Bots, Formal
+                  Worked on projects like Asset Bridging Bots, Formal
                   Verification of smart contracts, 3x leveraged positions and
                   more. You can learn more about it{' '}
                   <a href='https://github.com/Rushanksavant/InstaDapp-Tasks'>
