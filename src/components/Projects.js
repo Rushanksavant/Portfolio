@@ -15,10 +15,10 @@ export default function Projects() {
           Projects
         </span>
         <div className='grid md:grid-cols-3 grid-cols-2 lg:gap-[50px] mx-auto'>
+          <BridginhChains />
           <DappNet />
           <Go_GetterETH />
           <NFT_marketplace />
-          <BridginhChains />
         </div>
       </div>
 
