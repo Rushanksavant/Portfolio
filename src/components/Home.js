@@ -19,6 +19,9 @@ export default function Home() {
             and integrating them to a frontend using EthersJS.
             {/* Currently, I’m focused on gas-optimization and security vulnerabilities of smart contract, and building responsive web applications. */}
           </p>
+          <p className='text-[#8892b0] py-4 max-w-[800px]'>
+            Mobile no.: +91-9003517181 <br></br> Email: rssavant34@gmail.com
+          </p>
 
           <a
             href='https://drive.google.com/file/d/1_d0SbrPWcwUMzT1gXB41eWxs1gS0IPHA/view?usp=sharing'
